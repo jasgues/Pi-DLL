@@ -1,4 +1,4 @@
-# Pi-DLL
+# Pi-DLL [C#]
 <h2> Generate 100000 digits pi number </h2>
 
 
